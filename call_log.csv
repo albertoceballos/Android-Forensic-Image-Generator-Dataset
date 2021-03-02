@@ -1,0 +1,5 @@
+phone,date,time,incoming_call,missed_call,duration
+5551234560,2020/06/22,10:32:30,true,true,0
+5551234510,2020/06/10,13:05:00,true,false,60
+5551234520,2020/11/11,20:00:00,false,true,0
+5551234530,2020/12/12,23:23:23,false,false,120
